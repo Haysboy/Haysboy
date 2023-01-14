@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Haysboy
-- 👀 I’m interested in creation of mobile applications, artificial intelligence and microcontrollers
-- 🌱 I’m currently learning Android Studio, Kotlin, Compose, C++, SDL2, Unreal Engine 5, Blender
-- 💞️ I’m looking to collaborate on with Google
-- 📫 How to reach me. Telegram: Sashcoz 
